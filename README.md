@@ -14,7 +14,7 @@
 1. When ever you are changing any property in JS file, it will be automatically replicate in HTML file (No coding required here).
 2. When ever you have to send data/communication from HTML file to JS file you have to take help of events.
 
-![image](https://github.com/user-attachments/assets/b7a66fc3-96f9-4325-8a68-8f9eaf464333)
+![image](https://github.com/user-attachments/assets/4e57fa25-5f50-4eec-bec7-8d0f00b351b5)
 
 ![image](https://github.com/user-attachments/assets/fa4bb561-cc6d-4d11-b86c-4be96f49139e)
 
