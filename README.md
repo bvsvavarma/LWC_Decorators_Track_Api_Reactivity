@@ -9,3 +9,7 @@
 ![image](https://github.com/user-attachments/assets/4b8f1136-19db-434c-8b50-1b9c7c0d4cab)
 
 ![image](https://github.com/user-attachments/assets/5a1fc0f4-4c05-4044-94fc-d2d609c520ce)
+
+**Data Binding in LWC  -- One Way**
+1. When ever you are changing any property in JS file, it will be automatically replicate in HTML file (No coding required here).
+2. When ever you have to send data/communication from HTML file to JS file you have to take help of events.
