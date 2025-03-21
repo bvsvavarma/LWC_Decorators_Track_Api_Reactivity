@@ -1,0 +1,18 @@
+<template>
+    <lightning-card title="">
+        <div class="slds-var-p-around_small">
+            <!-- You can access primitive property in html using {propertyName}-->
+            <p>{greeting}</p>
+            <p>{welcome}</p>
+        </div>
+        <div class="center-button">
+            <lightning-button 
+                variant="brand" 
+                label="Change Text" 
+                title="Change Default Text" 
+                icon-name="utility:announcement"
+                onclick={handleClick} 
+            ></lightning-button>
+        </div>
+    </lightning-card>
+</template>
